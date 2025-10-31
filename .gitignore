@@ -31,3 +31,27 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+/*.class
+
+# Maven / Gradle
+/target/
+/build/
+/.gradle/
+/bin/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
